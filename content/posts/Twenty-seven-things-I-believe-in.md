@@ -1,6 +1,6 @@
 ---
 title: Twenty-seven things I believe in
-date: '2019-09-14T12:07:13.666Z'
+date: 2019-08-12T12:07:13.666Z
 thumb_img_path: images/Twenty-seven-things-I-believe-in/1*LeS3Y2Y1T-pbQ8cOjuieAg.jpeg
 excerpt: >-
   Last week I turned twenty-seven. It’s been a unique year- not only I’ve
