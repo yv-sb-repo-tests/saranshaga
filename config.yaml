@@ -2,11 +2,8 @@ title: Saransh Agarwal
 baseURL: /
 params:
   footer:
-    content: '&copy 2019 Saransh Agarwal; All rights reserved.'
-    links:
-      - new_window: false
-        text: 'Made with Netlify, Github and Hugo.'
-        url: ''
+    content: '&copy 2019 Saransh Agarwal. Made with Netlify, Github and Hugo.'
+    links: []
   header:
     bg: dark
     has_nav: true
