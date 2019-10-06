@@ -1,20 +1,20 @@
-title: Stackbit Fresh Theme
+title: Saransh Agarwal
 baseURL: /
 params:
-  layout_style: overflow
-  palette: blue
+  footer:
+    content: '&copy 2019 Saransh Agarwal; All rights reserved.'
+    links:
+      - new_window: false
+        text: 'Made with Netlify, Github and Hugo.'
+        url: ''
   header:
-    title: Saransh Agarwal
-    tagline: Header Tagline
-    profile_img: images/avatar.png
     bg: dark
     has_nav: true
     has_social: true
-  footer:
-    content: '&copy; All rights reserved.'
-    links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
+    profile_img: /images/avatar.png
+    tagline: Header Tagline
+    title: Saransh Agarwal
+  layout_style: overflow
+  palette: blue
 disableKinds:
   - RSS
