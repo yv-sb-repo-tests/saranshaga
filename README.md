@@ -1,4 +1,4 @@
-##Current build and deploy status
+## Current build and deploy status
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f23c1733-0be5-4c61-b882-765f36ab41f3/deploy-status)](https://app.netlify.com/sites/saranshag/deploys)
 
