@@ -1,20 +1,19 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+subtitle: ''
+img_path: /images/12343298_10154329506874409_311109197_o.jpg
 menu:
   main:
     name: About
     weight: 4
 layout: page
 ---
+Hello!
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I'm Saransh and I work at [Oracle](https://oracle.com) on marketing cloud applications that leverage big data and machine learning capabilities. Previously, I worked at EY Ireland's Assurance practice after completing my masters in Computer Science from [University College Dublin](http://www.ucd.ie/). I also hold Bachelors in Computer Science from [SRM University](http://www.srmuniv.ac.in/).
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I love most things Data Science & Analytics, Product Management, Design Thinking. I'm also excited about the role that technology shapes today's Financial Services (aka. [FinTech](https://twitter.com/hashtag/fintech)).
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+When I'm not coding or thinking of how to create a better customer experience, I'm discovering wisdom on [Quora](https://quora.com/profile/Saransh-Agarwal-2), writing life experiences on my blog, reading a book on my kindle *(find me on[goodreads] (https://www.goodreads.com/saranshag))* or trying my hands on cooking. I served as VP Public Relations at [Lexicon Toastmasters Club](https://www.toastmasters.org/Find-a-Club/02197304-lexicon-toastmasters). I'm also interested in learning new languages (both Human and Computer) and wish to speak fluent French one day!
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+_Thank You for reading!_
