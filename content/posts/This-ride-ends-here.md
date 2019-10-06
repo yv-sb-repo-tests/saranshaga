@@ -9,7 +9,7 @@ Dear Dublin,
 
 This is a tough one to write! How are ye keepin’? I still remember the rainy August afternoon in 2014 when I landed, jet-lagged from my first fifteen-hour journey. How can I forget the warmth and kindness that your people showed me during my initial days in a strange country, which was never visited by anyone even in my extended family back home? I still remember my first hike at picturesque locations of Howth, Dún Laoghaire and Killiney hill; my first kayaking in Liffey, overlooking you from a different perspective and yeah! my first pint of Guinness, which tastes best in its home.
 
-In the past two years, I’ve learnt a lot about you. The differences between ‘_North Side_’ and ‘_South Side_’, and how it dissipates during GAA at Croke Park, the cacophony in your centre and busking on Grafton Street- that I loved to hate when I had to rush through. It was in you where I had the most interesting and meaningful conversations with taxi drivers.
+In the past two years, I’ve learnt a lot about you. The differences between ‘North Side’ and ‘South Side’, and how it dissipates during GAA at Croke Park, the cacophony in your centre and busking on Grafton Street- that I loved to hate when I had to rush through. It was in you where I had the most interesting and meaningful conversations with taxi drivers.
 
 ![](/images/This-ride-ends-here/1*4F3eyoOrDwf1hJ9vctbdyA.jpeg "Grafton Street at Christmas")
 
