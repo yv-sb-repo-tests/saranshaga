@@ -7,7 +7,7 @@ layout: post
 ---
 ![](/images/-Next-Play---We-move-forward/1*7ScNBPxO48ZSEhczMZpLdw.jpeg)
 
-K, this was the reply from one of my (best) friend when I told him that I’d have to [move to India](https://medium.com/saranshs-notebook/https-saranshagarwal-co-this-ride-ends-here-c4403ba0873?source=collection_home---2------4----------------).
+K, this was the reply from one of my (best) friend when I told him that I’d have to [move to India](/posts/this-ride-ends-here/).
 
 As I started to think about what comes next, I travelled to India during Christmas break of 2015. As soon as I returned back, I felt an emptiness. Something was not going right, I just couldn’t figure out what was it. I increased my visits to Indian restaurants, my phone calls to friends and family increased. [Rang de Basanti](http://www.imdb.com/title/tt0405508/?ref_=fn_al_tt_1) and [Swades](http://www.imdb.com/title/tt0367110/?ref_=nv_sr_1) became a regular watch. While in India, the country was brimming with fresh energy, a kind of optimism. A startup wave was blowing. Top college graduates were joining months of old startups. Investors from across the world were pouring funds and the government was providing a platform through brand new ‘Make in India’ campaign.
 
@@ -34,5 +34,3 @@ At the same time, I have also realised the fundamental issues that need improvem
 * * *
 
 *Note: All images are sourced from websites that are licensed under* [*Creative Commons Zero*](https://creativecommons.org/publicdomain/zero/1.0/)*.*
-
-<iframe src="https://upscri.be/70d8e7?as_embed=true" width="700" height="350" frameborder="0" scrolling="no"></iframe>
