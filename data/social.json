@@ -15,6 +15,11 @@
       "title": "Quora",
       "icon": "fa-quora",
       "url": "https://quora.com/profile/Saransh-Agarwal-2"
+    },
+    {
+      "title": "Email",
+      "icon": "fa-envelope",
+      "url": "mailto:hello@saranshagarwal.com?"
     }
   ]
 }
