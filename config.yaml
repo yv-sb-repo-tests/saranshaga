@@ -9,7 +9,7 @@ params:
     has_nav: true
     has_social: true
     profile_img: /images/avatar.png
-    tagline: Header Tagline
+    tagline: ''
     title: Saransh Agarwal
   layout_style: overflow
   palette: blue
