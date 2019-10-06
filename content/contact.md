@@ -6,5 +6,4 @@ menu:
     weight: 5
 layout: contact
 ---
-
-To get in touch fill the form below.
+Thanks for your interest, to get in touch please fill the form below.
