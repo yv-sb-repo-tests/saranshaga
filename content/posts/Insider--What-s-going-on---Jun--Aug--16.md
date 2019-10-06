@@ -6,7 +6,7 @@ layout: post
 ---
 Well, I’ve been MIA lately, maybe you haven’t noticed!
 
-So, things have been working quite a [downside](https://medium.com/saranshs-notebook/un-employed-and-frustrated-8472e75ccc9f) for the past three months (in a row), that I’ve forgotten if there’s still a light at the end of the tunnel or someone turned the switch off! Although I aged a year this August, I didn’t saw a reason to celebrate.
+So, things have been working quite a [downside](/posts/-un-employed-and-frustrated/) for the past three months (in a row), that I’ve forgotten if there’s still a light at the end of the tunnel or someone turned the switch off! Although I aged a year this August, I didn’t saw a reason to celebrate.
 
 Well, these three months have given me a time to explore myself, weight down a couple of options and enjoy being alone. I’ve been travelling around Ireland, particularly visiting places in Dublin that I haven’t seen for years and revisiting some of my favourite spots (*Dún Laoghaire, Howth, Bray, Killiney, Phoenix Park*). I’ve also travelled to Cork, visiting my friends over there (twice) and also made a journey to the Rings of Kerry, across the *Wild Atlantic Way.* Turns out that Dún Laoghaire (pictured) is my favourite place in Dublin.
 
@@ -50,7 +50,7 @@ Here’s a bonus video from Buzzfeed that sums up my current situation.
 
 <iframe src="https://www.youtube.com/embed/DvOb7_eZKE4?feature=oembed" width="700" height="393" frameborder="0" scrolling="no"></iframe>
 
-> I’m tired and I’m broke, maybe its time to go home.
+I’m tired and I’m broke, maybe its time to go home.
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:48Q3vCqftpT9vfrz7LYA1M" width="300" height="380" frameborder="0" scrolling="no"></iframe>
 
