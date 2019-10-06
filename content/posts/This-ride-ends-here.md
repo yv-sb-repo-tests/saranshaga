@@ -11,9 +11,9 @@ This is a tough one to write! How are ye keepin’? I still remember the rainy A
 
 In the past two years, I’ve learnt a lot about you. The differences between ‘_North Side_’ and ‘_South Side_’, and how it dissipates during GAA at Croke Park, the cacophony in your centre and busking on Grafton Street- that I loved to hate when I had to rush through. It was in you where I had the most interesting and meaningful conversations with taxi drivers.
 
-![](/images/This-ride-ends-here/1*4F3eyoOrDwf1hJ9vctbdyA.jpeg)
+![](/images/This-ride-ends-here/1*4F3eyoOrDwf1hJ9vctbdyA.jpeg "Grafton Street at Christmas")
 
-<figcaption>Grafton Street at Christmas, Dublin&nbsp;2</figcaption>
+_Grafton Street at Christmas, Dublin_
 
 <blockquote class="twitter-tweet">tweet<a href="https://twitter.com/SaranshVAgarwal/status/684257039829331969"></a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -21,17 +21,17 @@ I’ll dearly miss the _Teddys’_ on a sunny day and walks along the Dún Laogh
 
 ![](/images/This-ride-ends-here/1*KkK6W3J14voRC_l0eg0Snw.jpeg)
 
-<figcaption>Dún Laoghaire</figcaption>
+_Dún Laoghaire_
 
 ![](/images/This-ride-ends-here/1*BG6KxnaIbaLrOmGZXKJURQ.jpeg)
 
-<figcaption>The Killiney&nbsp;Obelisk</figcaption>
+_The Killiney Obelisk_
 
 I embraced pacing aimlessly over the quays eating my drooling burrito, straight from _Boojum_ and the random thoughts that raced my mind. Each time I walked by, I discovered something new, but I never got to see your iconic _Samuel Beckett_ bridge in motion. The sunsets at the quays were the best moments ever, _Carpe Diem._
 
 ![](/images/This-ride-ends-here/1*eqoIYq6nXa3nknnKPlWCQA.jpeg)
 
-<figcaption>Samuel Beckett&nbsp;bridge</figcaption>
+_Samuel Beckett bridge_
 
 - - -
 
