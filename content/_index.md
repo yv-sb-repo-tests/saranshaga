@@ -2,7 +2,7 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: 'Program Manager, Oracle Cloud Applications (SaaS)'
+    content: ''
     section_id: hero
     type: heroblock
   - actions:
@@ -10,9 +10,10 @@ sections:
         url: /contact
     component: content_block.html
     content: >-
-      I love most things Data Science & Analytics, Product Management, Design
-      Thinking. I’m also excited about the role that technology shapes today’s
-      Financial Services (aka. [FinTech](https://twitter.com/hashtag/fintech)).
+      I work at [Oracle](https://www.oracle.com/index.html) and love most things
+      Data Science & Analytics, Product Management, Design Thinking. I’m also
+      excited about the role that technology shapes today’s Financial Services
+      (aka. [FinTech](https://twitter.com/hashtag/fintech)).
     section_id: about
     title: About
     type: contentblock
