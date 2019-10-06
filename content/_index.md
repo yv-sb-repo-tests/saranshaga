@@ -6,8 +6,8 @@ sections:
     section_id: hero
     type: heroblock
   - actions:
-      - label: Contact Me
-        url: /contact
+      - label: Read more
+        url: /about
     component: content_block.html
     content: >-
       I work at [Oracle](https://www.oracle.com/index.html) and love most things
