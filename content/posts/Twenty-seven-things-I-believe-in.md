@@ -8,8 +8,7 @@ excerpt: >-
 layout: post
 ---
 ![](/images/Twenty-seven-things-I-believe-in/1*LeS3Y2Y1T-pbQ8cOjuieAg.jpeg)
-
-<figcaption>Photo by Ran Berkovich on&nbsp;Unsplash</figcaption>
+_Photo by Ran Berkovich on Unsplash_
 
 Last month I turned twenty-seven. It’s been a unique year- not only I’ve changed three flats in last one year and [broke a few bones](https://twitter.com/SaranshVAgarwal/status/1111975443182161920) in my left arm, I’ve moved my workplaces thrice while changing my career (_with the same employer_), the strange reason is why I moved thrice within the same city! Amidst all this chaos, I’ve survived half of my [quarter-life crisis](https://en.wikipedia.org/wiki/Quarter-life_crisis).
 
@@ -46,8 +45,7 @@ I was watching a biography one weekend ([LION](https://www.imdb.com/title/tt3741
 27. Fake it till you make it (Watch [this](https://youtu.be/RVmMeMcGc0Y) great TED talk by Amy Cuddy).
 
 ![](/images/Twenty-seven-things-I-believe-in/0*If_VuKWviY4kwyI-.jpg)
-
-<figcaption>The lovely Irish coffee cake by my caring work colleagues (ignore the spelling&nbsp;mistook)</figcaption>
+_The lovely Irish coffee cake by my caring work colleagues (ignore the spelling mistook)_
 
 Until next time :)
 
