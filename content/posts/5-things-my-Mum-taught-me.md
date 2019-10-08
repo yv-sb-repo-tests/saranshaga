@@ -33,9 +33,8 @@ There were times in my life when I had to make a tough decision and there has al
 
 My mum has always been a generous and self- less woman. She taught me that the goal of life isn’t short term- a day, a month or a year; but rather is our reason for existence. No matter how many mistakes I made, I always learnt a lesson and found out the ways that won’t work. In this journey, I always tried to work in harmony with mankind and that is how we grow, and how we evolve.
 
-![](/images/5-things-my-Mum-taught-me/1*O2nOaLieqC9UpzEDq5G4NQ.jpeg)
-
-<figcaption>Me and my Mum (circa 1993) in Nainital, Uttarakhand.</figcaption>
+![](/images/5-things-my-Mum-taught-me/1*O2nOaLieqC9UpzEDq5G4NQ.jpeg) 
+_Me and my Mum (circa 1993) in Nainital, Uttarakhand._
 
 * * *
 
