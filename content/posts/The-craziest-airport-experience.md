@@ -15,9 +15,6 @@ I woke up shortly after and saw the boarding started. Since I was in no hurry, I
 
 It was already 21:40, I was at wrong gate, with a thick Zara coat (I planned to save luggage space and it was cold in Dublin, whereas I was roasting in Abu Dhabi) and approx 7 kilos of hand luggage, a laptop and duty- free alcohol (Jameson’s from Dublin) and I feared that my flight will leave without me!
 
-<iframe src="https://giphy.com/embed/xTiTnIQYQN4NUUBFIs/twitter/iframe" width="435" height="435" frameborder="0" scrolling="no"></iframe>
-
-<figcaption>Source: Tumblr (<a href="http://cplu.tumblr.com/" data-href="http://cplu.tumblr.com/" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">http://cplu.tumblr.com/</a>)</figcaption>
 
 If you’ve been to Abu Dhabi airport, you must be aware of the lack of space due to a lot of crowds and duty-free shops spreading across the airport.
 
@@ -39,10 +36,8 @@ Now, it seems funny, but it was a hell of an experience I had at the airport. No
 
 ![](/images/The-craziest-airport-experience/1*iddjWMsxG2953--EjawZvw.jpeg)
 
-<figcaption>Ferrari World, Abu&nbsp;Dhabi.</figcaption>
+_Ferrari World, Abu Dhabi_
 
 * * *
 
 *This story was originally published on* [*Quora*](https://www.quora.com/What-crazy-experience-have-you-had-at-an-airport-or-on-a-flight/answer/Saransh-Agarwal-2) *as an answer to* [*What crazy experience have you had at an airport or on a flight?*](https://www.quora.com/What-crazy-experience-have-you-had-at-an-airport-or-on-a-flight)
-
-<iframe src="https://upscri.be/70d8e7?as_embed=true" width="700" height="350" frameborder="0" scrolling="no"></iframe>
