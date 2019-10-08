@@ -24,7 +24,7 @@ So, I was in a situation of fight-or-flight (really!). On my way, I asked an air
 
 <iframe src="https://giphy.com/embed/3o6ZtcTC2PFZqbc6JO/twitter/iframe" width="435" height="305" frameborder="0" scrolling="no"></iframe>
 
-<figcaption>Source: Comedy Central (<a href="http://www.cc.com/" data-href="http://www.cc.com/" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">http://www.cc.com/</a>)</figcaption>
+_Source: Comedy Central_
 
 I jumped on the bus, panting and sweating profusely. I took off my coat, wiped off sweat with a handkerchief (my mom always insist me to keep one, thanks Mom). The driver took me to the flight, on which they’ve already started disconnecting the stairs. I shouted to stop them, jumped on it, saw someone else sitting on my window seat, which I reclaimed forcefully!
 
@@ -35,7 +35,6 @@ Apparently, my seat was just before the emergency exit, so I can’t recline my 
 Now, it seems funny, but it was a hell of an experience I had at the airport. Now, I always check my boarding pass multiple times.
 
 ![](/images/The-craziest-airport-experience/1*iddjWMsxG2953--EjawZvw.jpeg)
-
 _Ferrari World, Abu Dhabi_
 
 * * *

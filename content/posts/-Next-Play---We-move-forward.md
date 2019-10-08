@@ -7,11 +7,11 @@ layout: post
 ---
 ![](/images/-Next-Play---We-move-forward/1*7ScNBPxO48ZSEhczMZpLdw.jpeg)
 
-K, this was the reply from one of my (best) friend when I told him that I’d have to [move to India](/posts/this-ride-ends-here/).
+**K**, this was the reply from one of my (best) friend when I told him that I’d have to [move to India](/posts/this-ride-ends-here/).
 
 As I started to think about what comes next, I travelled to India during Christmas break of 2015. As soon as I returned back, I felt an emptiness. Something was not going right, I just couldn’t figure out what was it. I increased my visits to Indian restaurants, my phone calls to friends and family increased. [Rang de Basanti](http://www.imdb.com/title/tt0405508/?ref_=fn_al_tt_1) and [Swades](http://www.imdb.com/title/tt0367110/?ref_=nv_sr_1) became a regular watch. While in India, the country was brimming with fresh energy, a kind of optimism. A startup wave was blowing. Top college graduates were joining months of old startups. Investors from across the world were pouring funds and the government was providing a platform through brand new ‘Make in India’ campaign.
 
-*24 Feb 2017.* Fast forward 4.5 months. I moved to Bangalore, aka Silicon Valley of India. It wasn’t easy, but it was particularly hard to see myself in a *rut* condition whereas my colleagues were having a good life, climbing up the corporate ladder and earning a fortune. The last two years have been truly life-changing. Graduating from a top 1% University of the world to joining large corporate to [quitting my job](https://medium.com/saranshs-notebook/un-employed-and-frustrated-8472e75ccc9f?source=collection_home---2------6----------------), failing job interviews after reaching to the final stages (my bad luck) to failing to keep my own tiny consulting (people don’t pay when you don’t have experience) and then getting hired by a software giant! A few days ago, I met my childhood friend who serves in the Indian Army. He told,
+*24 Feb 2017.* Fast forward 4.5 months. I moved to Bangalore, aka Silicon Valley of India. It wasn’t easy, but it was particularly hard to see myself in a *rut* condition whereas my colleagues were having a good life, climbing up the corporate ladder and earning a fortune. The last two years have been truly life-changing. Graduating from a top 1% University of the world to joining large corporate to [quitting my job](/posts/-un-employed-and-frustrated/), failing job interviews after reaching to the final stages (my bad luck) to failing to keep my own tiny consulting (people don’t pay when you don’t have experience) and then getting hired by a software giant! A few days ago, I met my childhood friend who serves in the Indian Army. He told,
 
 > It is easier to build a house from scratch rather than to renovate an old one. Same goes with life. You can’t hang on correcting mistakes of the past. Instead, move on and start afresh.
 
@@ -27,10 +27,10 @@ At the same time, I have also realised the fundamental issues that need improvem
 
 ![](/images/-Next-Play---We-move-forward/1*O7qRCountv20wKG9ameO-A.jpeg)
 
-**We move forward. Next stop…?**
+*We move forward. Next stop?*
 
-./Saransh.
+Saransh.
 
-* * *
+---
 
 *Note: All images are sourced from websites that are licensed under* [*Creative Commons Zero*](https://creativecommons.org/publicdomain/zero/1.0/)*.*
