@@ -19,7 +19,3 @@ When I'm not coding or thinking of how to create a better customer experience, I
 _Thank You for reading and feel free to **subscribe** to my newsletter below!_
 
 _<iframe src="https://saransh.substack.com/embed" frameborder="0" scrolling="no"></iframe>_
-
-__
-
-__
