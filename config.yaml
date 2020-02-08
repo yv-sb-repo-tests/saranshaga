@@ -2,7 +2,7 @@ title: Saransh Agarwal
 baseURL: /
 params:
   footer:
-    content: '&copy 2019 Saransh Agarwal. Built with JAMstack.'
+    content: '&copy 2020 Saransh Agarwal. Built with JAMstack.'
     links: []
   header:
     bg: dark
