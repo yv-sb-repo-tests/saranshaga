@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: ''
-img_path: /images/12343298_10154329506874409_311109197_o.jpg
+img_path: /images/1 (1).jpeg
 menu:
   main:
     name: About
