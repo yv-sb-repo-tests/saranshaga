@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: ''
-img_path: /images/1 (1).jpeg
+img_path: /images/Webp.net-compress-image.jpg
 menu:
   main:
     name: About
