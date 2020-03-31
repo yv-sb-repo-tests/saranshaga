@@ -2,7 +2,8 @@
 title: Life lessons learnt in living alone.
 subtitle: The pros and cons of living all by yourself
 date: 2020-03-31T08:09:03.219Z
-canonical_url: /images/kelly-sikkema-y9wy-3pi3-w-unsplash.jpg
+thumb_img_path: /images/kelly-sikkema-y9wy-3pi3-w-unsplash.jpg
+canonical_url: ''
 layout: post
 ---
 <!--StartFragment-->
