@@ -1,7 +1,7 @@
 ---
 title: About Me
-subtitle: ''
-img_path: /images/Webp.net-compress-image.jpg
+subtitle: ""
+img_path: /images/saransh_aboutme-1-.jpg
 menu:
   main:
     name: About
