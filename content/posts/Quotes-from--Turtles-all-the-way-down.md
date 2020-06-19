@@ -37,7 +37,9 @@ Here are few quotes that I found worth sharing (**Spoiler Alert**):
 * I was thinking about Davis’s journal, of that Frost quote, “In three words I can sum up everything I’ve learned about life — it goes on.”
 * I missed everybody. To be alive is to be missing.
 * You remember your first love because they show you, prove to you, that you can love and be loved, that nothing in this world is deserved except for love, that love is both how you become a person, and why.
-* I thoroughly enjoyed the book and felt bad for _David_, who made a huge sacrifice just to make sure that his brother doesn’t feel that their father loved them. The book highlighted mental- health issues and the fact I loved is that the last pages of book contains a list of websites of organisations that promote mental- health awareness and suicide prevention.
+
+----
+I thoroughly enjoyed the book and felt bad for _David_, who made a huge sacrifice just to make sure that his brother doesn’t feel that their father loved them. The book highlighted mental- health issues and the fact I loved is that the last pages of book contains a list of websites of organisations that promote mental- health awareness and suicide prevention.
 
 Thanks for the wonderful book, John!
 
