@@ -2,14 +2,14 @@ title: Saransh Agarwal
 baseURL: /
 params:
   footer:
-    content: '&copy 2020 Saransh Agarwal. Built with JAMstack.'
+    content: "&copy 2020 Saransh Agarwal. Built with JAMstack."
     links: []
   header:
     bg: dark
     has_nav: true
     has_social: true
-    profile_img: /images/hednqoee_400x400.jpg
-    tagline: ''
+    profile_img: /images/favicon.jpg
+    tagline: ""
     title: Saransh Agarwal
   layout_style: overflow
   palette: blue
