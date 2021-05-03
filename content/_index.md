@@ -11,7 +11,7 @@ sections:
     component: content_block.html
     content: >-
       I work at [Oracle](https://www.oracle.com/index.html) and love most things
-      Data Science & Analytics, Product Management, Design Thinking. I’m also
+      Data Science, Program and Product Management, Design Thinking. I’m also
       excited about the role that technology shapes today’s Financial Services
       (aka. [FinTech](https://twitter.com/hashtag/fintech)). Welcome to my
       website!
