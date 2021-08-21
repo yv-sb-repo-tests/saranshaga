@@ -24,7 +24,7 @@ After a few days, I was invited to an interview. My interview was scheduled with
 
 Shortly after my interview, I got one of the best emails containing the golden letters- 
 
-_Congratulations! On behalf of all of us at Quantic, I’m so pleased to notify you of your acceptance into the **Quantic MBA - July 2020** class._
+*Congratulations! On behalf of all of us at Quantic, I’m so pleased to notify you of your acceptance into the **Quantic MBA - July 2020** class.*
 
 Here's a snapshot of my cohort. I suffered from imposter syndrome (everyone suffers from it, [here's an article from HBR on how to handle it](https://hbr.org/2016/07/everyone-suffers-from-imposter-syndrome-heres-how-to-handle-it)) when I saw that my class contains a frontline doctor from NHS, a US Army veteran, a Forbes 30 under 30 winner and young entrepreneurs. 
 
@@ -61,16 +61,20 @@ I'm also writing a few frequently asked questions (FAQ's) that I receive on Link
 2. **I'm outside of the US, will my company recognize Quantic degrees?**\
    The purpose of doing an MBA for me was to gain knowledge, and not necessarily add another degree to my CV. Please check with your manager and HR.
 3. **How are placements after Quantic's MBA? What is the average package offered?**\
-   Quantic doesn't organizes campus placement/ recruitment drives. There are CV review clinics and a careers portal that lists job openings, but I recommend utilizing the networking opportunities for job roles.
+   Quantic doesn't organize campus placement/ recruitment drives. There are CV review clinics and a careers portal that lists job openings, but I recommend utilizing the networking opportunities for job roles.
 4. **How exhaustive is the curriculum? How many hours/ day do I need to put in?**\
    I found the curriculum to be just right, and to some, it might lack depth. I invested 3-4 hours a week on average, with projects taking longer than that. It depends on your learning capabilities and prior experience.
 5. **Is it worth doing MBA/ EMBA at Quantic? What is the ROI?**\
-   Yes! If you can dedicate a few hours each week, I highly recommend this program to anyone looking beyond traditional learning programs. The ROI (for fee paying students) depends on your goals and priorities. It's not something that comes instantly, but pays over a period of time. 
+   Yes! If you can dedicate a few hours each week, I highly recommend this program to anyone looking beyond traditional learning programs. The ROI (for fee-paying students) depends on your goals and priorities. It's not something that comes instantly but pays over a period of time. 
 
----
+- - -
 
 > Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.
 > *Henry Ford*
+
+![MBA degree parchment](/images/20210816_181308.jpg "MBA degree parchment")
+
+*The only offline document I received from Quantic, my MBA degree.*
 
 I enjoyed my MBA and would recommend it to anyone looking for a quality, affordable and mobile-first MBA beyond the classroom. Please let me know what do you think in the comments below!
 
