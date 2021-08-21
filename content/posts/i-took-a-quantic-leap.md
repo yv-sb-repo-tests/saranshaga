@@ -12,7 +12,7 @@ layout: post
 
 *Photo by [Scott Graham](https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/management?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
-Last year, I made a list of goals that I wanted to achieve by 2021. One of the 'nice to haves' was to get another degree- possibly an MBA. Little did I knew that the pandemic would shut the world and most things- including education would go online. After searching for the best, affordable and flexible courses- I had a chat with one of my former batchmates from Dublin about the online MBA he was doing, which is when I made a decision to apply for [Quantic's mobile-first MBA](https://quantic.edu/mba). 
+Last year, I made a list of goals that I wanted to achieve by 2021. One of the 'nice to haves' was to get another degree- possibly an MBA. Little did I knew that the pandemic would shut the world and most things including education would go online. After searching for the best, affordable and flexible courses- I had a chat with one of my former batchmates from Dublin about the online MBA he was doing, which is when I made a decision to apply for [Quantic's mobile-first MBA](https://quantic.edu/mba). 
 
 Fast forward to August 2021, it's been a month I graduated with an MBA and multiple LinkedIn messages later- I decided to write a post about my experiences and advice for future students. If you're reading this, chances are you've thought of applying for an MBA at some point in your career.
 
@@ -32,13 +32,13 @@ Here's a snapshot of my cohort. I suffered from imposter syndrome (everyone suff
 
 ### Academics
 
-Gone are the days of the traditional environment, where you've to wake up at 6 AM, travel miles to grab the first rows of the lecture theatre so that you can understand what the professor is trying to explain. I also took some of the online courses where there are 200+ students and more than half are sleeping and have their camera turned off. 
-
 Quantic's innovative approach to teaching is very interactive. It's like playing an online game- you can't go to the next module (level) unless you pass the previous level. The bite-sized learning modules made it so much easier for busy professionals to learn wherever they are in the world. I even took some of the quizzes while I was waiting at the airport's baggage carousel! 
 
 *Tip: Look out for [\#WhereDoYouQuantic](https://twitter.com/search?q=%23WhereDoYouQuantic&src=typed_query) on social media to see where Quantic students are learning from!*
 
-I was blown away by the interesting projects, some of which were to be done with a group as a part of the curriculum. The best thing about it was that you don't need to write 100's of pages and then wait till eternity for evaluation. Instead, Quantic used an innovative video-based, no 'death by powerpoints' approach. Create a few talking points, record a video and send it for evaluation. For modules like Accounting and Finance, a spreadsheet was to be submitted. This was such a simple yet effective solution, and I loved doing my accounting project- a subject that I dread in the past. 
+I was blown away by the interesting projects, some of which were to be done in a group. The best thing was that you don't need to write 100's of pages and then wait till eternity for evaluation. Quantic uses an innovative video-based, no 'death by powerpoints' approach. Create a few talking points, record a video and send it for evaluation. For modules like Accounting and Finance, a spreadsheet was to be submitted. This is such a simple yet effective solution, and I enjoyed doing my accounting project- a subject that I dread in the past. 
+
+Gone are the days where you've to wake up at 6 AM, travel miles to grab the first rows of the lecture theatre so that you can understand what the professor is trying to explain. I also took some of the online courses where there are 200+ students and more than half are sleeping and have their camera turned off. 
 
 ### Student Engagement & Extra-Curricular
 
@@ -59,13 +59,15 @@ I'm also writing a few frequently asked questions (FAQ's) that I receive on Link
 1. **Is the Quantic degree accredited?**\
    Quantic is accredited by the Distance Education Accrediting Commission (DEAC), listed by the U.S. Department of Education as a recognized accrediting agency. Read more: [Quantic School of Business and Technology | Accreditation](https://quantic.edu/accreditation)
 2. **I'm outside of the US, will my company recognize Quantic degrees?**\
-   The purpose of doing an MBA for me was to gain knowledge, and not necessarily add another degree to my CV. Please check with your manager and HR.
+   The purpose of doing an MBA for me was to gain knowledge, and not to add another degree on my CV. Please check with your manager and HR about the recognition.
 3. **How are placements after Quantic's MBA? What is the average package offered?**\
    Quantic doesn't organize campus placement/ recruitment drives. There are CV review clinics and a careers portal that lists job openings, but I recommend utilizing the networking opportunities for job roles.
 4. **How exhaustive is the curriculum? How many hours/ day do I need to put in?**\
    I found the curriculum to be just right, and to some, it might lack depth. I invested 3-4 hours a week on average, with projects taking longer than that. It depends on your learning capabilities and prior experience.
 5. **Is it worth doing MBA/ EMBA at Quantic? What is the ROI?**\
    Yes! If you can dedicate a few hours each week, I highly recommend this program to anyone looking beyond traditional learning programs. The ROI (for fee-paying students) depends on your goals and priorities. It's not something that comes instantly but pays over a period of time. 
+6. **Who isn't the Quantic MBA for?**
+   If you're looking for a program with on-campus/ in-person interaction and job fair where recruiters gather up setting their stalls handing out company merchandise, Quantic's MBA may not be for you.
 
 - - -
 
