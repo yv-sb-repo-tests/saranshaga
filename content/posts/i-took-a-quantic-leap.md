@@ -18,9 +18,9 @@ The MBA program is suitable for early-career (<7 years experience) people with a
 
 After a few days, I was invited to an interview. My interview was scheduled with *Matt Schenck*, EVP at Quantic. It was an opportunity for me to ask questions about the program and know more about the process. I've got to know that not everyone is invited to an interview- but consider it a good sign if you are invited.
 
-Shortly after my interview, I got one of the best emails containing the golden letters
+Shortly after my interview, I got one of the best emails containing the golden letters- 
 
-> Congratulations! On behalf of all of us at Quantic, I’m so pleased to notify you of your acceptance into the **Quantic MBA - July 2020** class.
+_Congratulations! On behalf of all of us at Quantic, I’m so pleased to notify you of your acceptance into the **Quantic MBA - July 2020** class._
 
 Here's a snapshot of my cohort. I suffered from imposter syndrome (everyone suffers from it, [here's an article from HBR on how to handle it](https://hbr.org/2016/07/everyone-suffers-from-imposter-syndrome-heres-how-to-handle-it)) when I saw that my class contains a frontline doctor from NHS, a US Army veteran, a Forbes 30 under 30 winner and young entrepreneurs. 
 
@@ -63,10 +63,9 @@ I'm also writing a few frequently asked questions (FAQ's) that I receive on Link
 5. **Is it worth doing MBA/ EMBA at Quantic? What is the ROI?**\
    Yes! If you can dedicate a few hours each week, I highly recommend this program to anyone looking beyond traditional learning programs. The ROI (for fee paying students) depends on your goals and priorities. It's not something that comes instantly, but pays over a period of time. 
 
-In conclusion, I'd like to share a quote
+---
 
 > Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.
->
 > *Henry Ford*
 
 I enjoyed my MBA and would recommend it to anyone looking for a quality, affordable and mobile-first MBA beyond the classroom. Please let me know what do you think in the comments below!
