@@ -24,7 +24,7 @@ After a few days, I was invited to an interview. My interview was scheduled with
 
 Shortly after my interview, I got one of the best emails containing the golden letters- 
 
-*Congratulations! On behalf of all of us at Quantic, I’m so pleased to notify you of your acceptance into the **Quantic MBA - July 2020** class.*
+> Congratulations! On behalf of all of us at Quantic, I’m so pleased to notify you of your acceptance into the **Quantic MBA - July 2020** class.
 
 Here's a snapshot of my cohort. I suffered from imposter syndrome (everyone suffers from it, [here's an article from HBR on how to handle it](https://hbr.org/2016/07/everyone-suffers-from-imposter-syndrome-heres-how-to-handle-it)) when I saw that my class contains a frontline doctor from NHS, a US Army veteran, a Forbes 30 under 30 winner and young entrepreneurs. 
 
@@ -70,13 +70,12 @@ I'm also writing a few frequently asked questions (FAQ's) that I receive on Link
 - - -
 
 > Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.
+>
 > *Henry Ford*
 
-![MBA degree parchment](/images/20210816_181308.jpg "MBA degree parchment")
+I enjoyed my MBA and would recommend it to anyone looking for a quality, affordable and mobile-first curriculum that thinks outside the classroom. Let me know what do you think in the comments below!
 
-*The only offline document I received from Quantic, my MBA degree.*
-
-I enjoyed my MBA and would recommend it to anyone looking for a quality, affordable and mobile-first MBA beyond the classroom. Please let me know what do you think in the comments below!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Update 16/08/2021: Got my piece of paper in the post today!<br>This is the only offline document I received from my all-online MBA from <a href="https://twitter.com/SaranshVAgarwal/status/1427268207958577152?s=20"> </a> </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Saransh Agarwal\
 MBA, Class of July 2021.
