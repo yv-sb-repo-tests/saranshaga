@@ -1,8 +1,8 @@
 ---
 title: This ride ends here.
-date: '2016-09-27T07:04:22.544Z'
+date: 2016-09-27T07:04:22.544Z
 thumb_img_path: images/This-ride-ends-here/1*4F3eyoOrDwf1hJ9vctbdyA.jpeg
-excerpt: 'Dear Dublin,'
+excerpt: Dear Dublin,
 layout: post
 ---
 Dear Dublin,
@@ -13,31 +13,25 @@ In the past two years, I’ve learnt a lot about you. The differences between �
 
 ![](/images/This-ride-ends-here/1*4F3eyoOrDwf1hJ9vctbdyA.jpeg "Grafton Street at Christmas")
 
-_Grafton Street at Christmas, Dublin_
+*Grafton Street at Christmas, Dublin*
 
 <blockquote class="twitter-tweet">tweet<a href="https://twitter.com/SaranshVAgarwal/status/684257039829331969"></a></blockquote><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I’ll dearly miss the _Teddys’_ on a sunny day and walks along the Dún Laoghaire pier. I’ll miss how my boat shoes split climbing up the Obelisk in Killiney, but compensated with the view I got from the top, mesmerising.
+I’ll dearly miss the *Teddys’* on a sunny day and walks along the Dún Laoghaire pier. I’ll miss how my boat shoes split climbing up the Obelisk in Killiney, but compensated with the view I got from the top, mesmerising.
 
-![](/images/This-ride-ends-here/1*KkK6W3J14voRC_l0eg0Snw.jpeg)
+![](/images/This-ride-ends-here/1*KkK6W3J14voRC_l0eg0Snw.jpeg "Dún Laoghaire")
 
-_Dún Laoghaire_
+![](/images/This-ride-ends-here/1*BG6KxnaIbaLrOmGZXKJURQ.jpeg "The Killiney Obelisk")
 
-![](/images/This-ride-ends-here/1*BG6KxnaIbaLrOmGZXKJURQ.jpeg)
+I embraced pacing aimlessly over the quays eating my drooling burrito, straight from *Boojum* and the random thoughts that raced my mind. Each time I walked by, I discovered something new, but I never got to see your iconic *Samuel Beckett* bridge in motion. The sunsets at the quays were the best moments ever, *Carpe Diem.*
 
-_The Killiney Obelisk_
-
-I embraced pacing aimlessly over the quays eating my drooling burrito, straight from _Boojum_ and the random thoughts that raced my mind. Each time I walked by, I discovered something new, but I never got to see your iconic _Samuel Beckett_ bridge in motion. The sunsets at the quays were the best moments ever, _Carpe Diem._
-
-![](/images/This-ride-ends-here/1*eqoIYq6nXa3nknnKPlWCQA.jpeg)
-
-_Samuel Beckett bridge_
+![](/images/This-ride-ends-here/1*eqoIYq6nXa3nknnKPlWCQA.jpeg "Samuel Beckett bridge")
 
 - - -
 
-Well, the [past few months](/posts/insider-what-s-going-on-jun-aug-16/) have been one of the (most) toughest part of my life, giving me a legit reason to move away. I have left no stone unturned to reverse my decision to leave but circumstances aren’t happy. I couldn’t believe at first, but I’ve lost a generous portion of my body mass and I’ve felt more stressed, depressed and burnt- out than never before. If I look past two years, I just came with a suitcase full of clothes and a curious mind. I never limited myself to people from my country or craved for Indian food. I waited for _Christmas_ and _Easter_ more than I did for _Holi_ and _Diwali_. Although I never planned to _settle_ down, I never thought I’d leave abruptly either. I never regretted my decision of not moving to _Madrid_ last year where I had a chance to do my dream job, instead, I decided to _stay._ I still don’t regret, but it haunts me when I am feeling like stuck in the rut.
+Well, the [past few months](/posts/insider-what-s-going-on-jun-aug-16/) have been one of the (most) toughest part of my life, giving me a legit reason to move away. I have left no stone unturned to reverse my decision to leave but circumstances aren’t happy. I couldn’t believe it at first, but I’ve lost a generous portion of my body mass and I’ve felt more stressed, depressed and burnt-out than ever before. If I look past two years, I just came with a suitcase full of clothes and a curious mind. I never limited myself to people from my country or craved Indian food. I waited for *Christmas* and *Easter* more than I did for *Holi* and *Diwali*. Although I never planned to *settle* down, I never thought I’d leave abruptly either. I never regretted my decision of not moving to *Madrid* last year where I had a chance to do my dream job, instead, I decided to *stay.* I still don’t regret it, but it haunts me when I am feeling  stuck in the rut.
 
-My current situation could be summarised by the song ‘[_For You_](https://www.youtube.com/watch?v=Togf-xagTJA)’ by one of my favourite singer-songwriter, _Gavin James_ (a Dubliner):
+My current situation could be summarised by the song ‘*[For You](https://www.youtube.com/watch?v=Togf-xagTJA)*’ by one of my favourite singer-songwriters, *Gavin James* (a Dubliner):
 
 > Maybe I’ll forget and maybe I won’t\
 > I’m stuck in the moment\
@@ -63,9 +57,7 @@ However, I won’t miss,
 * 300+ days of rain
 * [Queuing up](http://www.irishtimes.com/news/social-affairs/foreign-nationals-join-the-queue-to-work-and-study-in-ireland-1.2752643) for immigration card at 5 in the morning (they’ve got it online this year, my bad).
 
-![](/images/This-ride-ends-here/1*qTZnosYoIq5O-txvauNmeQ.jpeg)
-
-Goodbye, Dublin. We’re done! I’ve lost my mojo.
+![](/images/This-ride-ends-here/1*qTZnosYoIq5O-txvauNmeQ.jpeg "Goodbye, Dublin. We’re done! I’ve lost my mojo.")
 
 - - -
 
@@ -80,4 +72,4 @@ Saransh
 
 - - -
 
-_PS: All pictures are taken by me from my Lumia 640._
+*PS: All pictures are taken by me from my Lumia 640.*
