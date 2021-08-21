@@ -8,6 +8,10 @@ excerpt: My experience with an all-online MBA at Quantic School of Business and
   Technology.
 layout: post
 ---
+![Brainstorming over paper](https://unsplash.com/photos/5fNmWej4tAA/download?force=true&w=1920)
+
+*Photo by [Scott Graham](https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/management?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
 Last year, I made a list of goals that I wanted to achieve by 2021. One of the 'nice to haves' was to get another degree- possibly an MBA. Little did I knew that the pandemic would shut the world and most things- including education would go online. After searching for the best, affordable and flexible courses- I had a chat with one of my former batchmates from Dublin about the online MBA he was doing, which is when I made a decision to apply for [Quantic's mobile-first MBA](https://quantic.edu/mba). 
 
 Fast forward to August 2021, it's been a month I graduated with an MBA and multiple LinkedIn messages later- I decided to write a post about my experiences and advice for future students. If you're reading this, chances are you've thought of applying for an MBA at some point in your career.
