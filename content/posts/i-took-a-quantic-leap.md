@@ -28,7 +28,7 @@ Shortly after my interview, I got one of the best emails containing the golden l
 
 Here's a snapshot of my cohort. I suffered from imposter syndrome (everyone suffers from it, [here's an article from HBR on how to handle it](https://hbr.org/2016/07/everyone-suffers-from-imposter-syndrome-heres-how-to-handle-it)) when I saw that my class contains a frontline doctor from NHS, a US Army veteran, a Forbes 30 under 30 winner and young entrepreneurs. 
 
-![Infographic containing details of the MBA class of July 2021 at Quantic](/images/classofjuly2021.jpeg "Meet my cohort- class of July 2021")
+![Infographic containing details of the MBA class of July 2021 at Quantic](/images/i-took-a-quantic-leap/classofjuly2021.jpeg "Meet my cohort- class of July 2021")
 
 ### Academics
 
@@ -46,7 +46,7 @@ Quantic has a strong student engagement team and a community is built through Sl
 
 Below is a snapshot of the incredible Quantic network, with students and alumni across the globe.
 
-![map of the world showing Quantic students and alumni](/images/screenshot-2021-08-21-at-3.06.38-pm.png "Quantic students and alumni network")
+![map of the world showing Quantic students and alumni](/images/i-took-a-quantic-leap/screenshot-2021-08-21-at-3.06.38-pm.png "Quantic students and alumni network")
 
 ### Verdict
 
