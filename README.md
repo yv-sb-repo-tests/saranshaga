@@ -11,7 +11,7 @@
 
 1. run the following command to assign this key to `STACKBIT_API_KEY` environment variable:
 
-        export STACKBIT_API_KEY={stackbit_netlify_api_key}
+        export STACKBIT_API_KEY={9a0b8f20ff65623b0875568bd323b037e0c49f34da76d46ddeeb489d0da7f270}
 
 1. run the following command to fetch additional site contents from Stackbit if needed:
 
