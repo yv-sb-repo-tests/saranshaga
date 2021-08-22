@@ -3,7 +3,7 @@
 # https://github.com/netlify/build-image/issues/183#issuecomment-419199649
 
 HUGO_FLAVOUR="hugo_extended"
-HUGO_VERSION="0.47"
+HUGO_VERSION="0.87.0"
 
 echo "start netlify-build-fix.sh"
 echo "Hugo version: ${HUGO_VERSION}"

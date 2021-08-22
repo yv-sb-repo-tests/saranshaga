@@ -1,5 +1,5 @@
-@import url(fontawesome.min.css);
-@import url(brands.min.css);
+@import "fontawesome.min.css";
+@import "brands.min.css";
 /**
  * Reset
  * normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css
@@ -186,7 +186,6 @@ html {
   @media only screen and (max-width: 600px) {
     html {
       font-size: 100%; } }
-
 body {
   background: #fff;
   color: #555e69;
@@ -682,7 +681,6 @@ img {
   @media only screen and (min-width: 1001px) {
     .site-content {
       margin-left: 300px; } }
-
 .site-main {
   margin-bottom: 3.33333em; }
 
@@ -1173,7 +1171,6 @@ img {
       margin-right: 15px; }
     .site-footer .to-top {
       display: block; } }
-
 /**
  * Palettes
  * ----------------------------------------------------------------------------
@@ -1220,7 +1217,6 @@ img {
   @media only screen and (min-width: 801px) {
     .palette-blue .profile .avatar {
       box-shadow: 0 0 1px 11px rgba(16, 188, 249, 0.2); } }
-
 .palette-blue .menu-item a:hover,
 .palette-blue .current-menu-item a {
   color: #10bcf9; }
@@ -1282,7 +1278,6 @@ img {
   @media only screen and (min-width: 801px) {
     .palette-violet .profile .avatar {
       box-shadow: 0 0 1px 11px rgba(147, 113, 230, 0.2); } }
-
 .palette-violet .menu-item a:hover,
 .palette-violet .current-menu-item a {
   color: #9371e6; }
@@ -1344,7 +1339,6 @@ img {
   @media only screen and (min-width: 801px) {
     .palette-orange .profile .avatar {
       box-shadow: 0 0 1px 11px rgba(252, 110, 81, 0.2); } }
-
 .palette-orange .menu-item a:hover,
 .palette-orange .current-menu-item a {
   color: #fc6e51; }
