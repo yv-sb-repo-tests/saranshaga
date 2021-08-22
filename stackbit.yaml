@@ -123,6 +123,7 @@ stackbit_banner:
   name: Fresh
   create_url: 'https://app.stackbit.com/create?theme=fresh'
   github_url: 'https://github.com/stackbithq/stackbit-theme-fresh'
+cmsName: netlifycms
 models:
   config:
     type: config
@@ -373,7 +374,8 @@ models:
     type: page
     label: Page
     template: page
-    exclude: posts/**
+    exclude:
+      - posts/**
     fields:
       - type: string
         name: title
@@ -470,23 +472,52 @@ models:
   heroblock:
     type: object
     label: Hero Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: action
       - name: component
         default: hero_block.html
+        type: string
+        label: Component
+        required: true
+        hidden: true
       - type: markdown
         name: content
         label: Content
         description: The text content of the section.
+    labelField: title
   contentblock:
     type: object
     label: Content Section with Optional Image
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: action
       - name: component
         default: content_block.html
+        type: string
+        label: Component
+        required: true
+        hidden: true
       - type: markdown
         name: content
         label: Content
@@ -495,18 +526,34 @@ models:
         name: image
         label: Image
         description: The image displayed below the section title.
+    labelField: title
   postsblock:
     type: object
     label: Posts List
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: action
       - name: component
         default: posts_block.html
+        type: string
+        label: Component
+        required: true
+        hidden: true
       - type: number
         name: num_posts_displayed
         label: Number of posts to display
         required: true
+    labelField: title
   site_menus:
     type: object
     label: Site Menus
